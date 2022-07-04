@@ -7514,4 +7514,5 @@ Stephen kihuni
 - [Pearl Akpan](https://github.com/pearlsky)
 - [Hun Liang](https://github.com/fractaloffugue)
 - [thinhntr](https://github.com/thinhntr)
+- [Tenzin Gyaltsen] (https://github.com/gyaltsentenzin)
 <!-- prettier-ignore-end -->
